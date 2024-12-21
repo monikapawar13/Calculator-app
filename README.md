@@ -2,7 +2,7 @@
 
 A simple cross platform (iOS and Android) React Native calculator app.
 
-<img src="./assets/iphone.jpeg" width=300px>
+<img src=""C:\Users\user5\OneDrive\Desktop\iphone.jpeg"" width=300px>
 
 ### Installation
 
